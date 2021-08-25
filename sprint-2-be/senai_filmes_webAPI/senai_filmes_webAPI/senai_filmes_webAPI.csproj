@@ -5,11 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\User\OneDrive\Desktop\FilmeDomain.cs" Link="FilmeDomain.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
 
